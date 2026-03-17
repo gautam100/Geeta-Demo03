@@ -1,0 +1,6 @@
+Step 1: Install GIT
+Step 2: Create a folder in which we will learn GIT
+Step 3: Check version (git --version)
+Step 4: git init
+
+Step 5:lsdkjflkej
